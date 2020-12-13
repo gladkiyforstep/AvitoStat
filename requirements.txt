@@ -1,0 +1,5 @@
+Django
+djangorestframework
+django_apscheduler
+requests
+bs4
